@@ -1,3 +1,5 @@
 == Superheroes
 
 Superheroes is a cucumber demo application used in the Codeship Testing Tuesday screencast (http://blog.codeship.io/)
+
+"!https://codeship.com/projects/99a2d280-9b5f-0133-2b2a-2e4a8a945ddd/status?branch=master!":https://codeship.com/projects/126753
